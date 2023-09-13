@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @davoudlou
 - 👀 I’m interested in .Net Programming
-- 🌱 I’m currently learning Razor Pages
 - 💞️ I’m looking to collaborate on .Net Projects
 - 📫 @Davoudlou
 
